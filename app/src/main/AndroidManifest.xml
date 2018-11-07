@@ -24,6 +24,9 @@
         <service
             android:name=".MyAidlService"
             android:process=":process" />
+
+        <activity android:name=".activity.ConstraintActivity"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

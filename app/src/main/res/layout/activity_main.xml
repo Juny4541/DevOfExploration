@@ -12,4 +12,10 @@
         android:layout_height="wrap_content"
         android:text="AIDL跨进程通信示例" />
 
+    <Button
+        android:id="@+id/btn_constraint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="约束布局" />
+
 </LinearLayout>
